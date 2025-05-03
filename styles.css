@@ -98,7 +98,7 @@ button:hover {
     justify-content: space-between;
     align-items: center;
     padding: 60px 100px;
-    gap: 10px;
+    gap: 9px;
     flex-wrap: wrap;
     width: 100%;
     box-sizing: border-box;
