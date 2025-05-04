@@ -68,7 +68,7 @@ body {
     color: #2E7D32;
 }
 
-button {
+#scan-button {
     background-color: #4CAF50;      /* green background */
     color: white;                   /* white text */
     padding: 12px 24px;             /* space inside the button */
@@ -81,7 +81,7 @@ button {
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);  /* subtle shadow */
 }
 
-button:hover {
+#scan-button:hover {
     background-color: #45a049;      /* darker green on hover */
 }
 
