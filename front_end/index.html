@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Health_barcode</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        
+    </head>
+    <body>
+        <div class="header">
+            <section class="brandname">
+                Mindora
+            </section>
+            <section class="login">
+                <img src="login.jpg" alt="Hi">
+            </section>   
+        </div>
+        
+        <div class="first">
+            <div class="first_ui">
+                <div class="problem_solved">
+                    Nutrition tracking health
+                </div>
+                <div>
+                    See what your food contains
+                </div>
+                <button id="scan-button">
+                    Scan now
+                </button>
+                <div id="reader" style="width: 300px; margin: 20px auto;"></div>
+                <div id="product-info"></div>
+            </div>
+            <div class="food">
+                <img src="food.png" alt="Hi">
+            </div>  
+        </div>
+
+        <script src="script.js"></script>
+        <script src="https://unpkg.com/html5-qrcode"></script>
+    </body>
+</html>
