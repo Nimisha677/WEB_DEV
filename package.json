@@ -1,0 +1,24 @@
+{
+  "name": "health",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimisha677/WEB_DEV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimisha677/WEB_DEV/issues"
+  },
+  "homepage": "https://github.com/Nimisha677/WEB_DEV#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
